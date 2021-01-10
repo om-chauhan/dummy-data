@@ -1,0 +1,61 @@
+[
+   {
+      "Id":1,
+      "Name":"Aloevera Soap",
+      "Description":"This is a soap which is very good with aloevera.",
+      "Image":"https://images.pexels.com/photos/4210373/pexels-photo-4210373.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "Category":"Body Care",
+      "Price":100,
+      "Rating":5,
+      "Stock":300
+   },
+   {
+      "Id":2,
+      "Name":"Face Wash",
+      "Description":"This is an amazing Face wash which is very good for your skin.",
+      "Image":"https://images.pexels.com/photos/4210373/pexels-photo-4210373.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "Category":"Body Care",
+      "Price":220,
+      "Rating":4.5,
+      "Stock":250
+   },
+   {
+      "Id":3,
+      "Name":"Apples",
+      "Description":"Amazing Apples directly from farm to your home.",
+      "Image":"https://images.pexels.com/photos/4210373/pexels-photo-4210373.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "Category":"Fruits and Vegetables",
+      "Price":120,
+      "Rating":4,
+      "Stock":150
+   },
+   {
+      "Id":4,
+      "Name":"Organic Cabbage",
+      "Description":"Organic Cabbage directly from farm to your home, without any preservatives or pesticides.",
+      "Image":"https://images.pexels.com/photos/4210373/pexels-photo-4210373.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "Category":"Fruits and Vegetables",
+      "Price":40,
+      "Rating":4.2,
+      "Stock":170
+   },
+   {
+      "Id":5,
+      "Name":"Blue Lays",
+      "Description":"Taste the unbeatable blend of delectable Indian spices with best quality potatoes. Lays is made with India's best-quality fresh potatoes, simply sliced and cooked in edible vegetable oils, and then seasoned with delicious flavours!",
+      "Image":"https://images.pexels.com/photos/4210373/pexels-photo-4210373.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "Category":"Snacks and Namkeen",
+      "Price":20,
+      "Rating":4.6,
+      "Stock":185
+   }, {
+      "Id":6,
+      "Name":"Hand Wash",
+      "Description":"Soap is a salt of a fatty acid used in a variety of cleansing and lubricating products. In a domestic setting, soaps are surfactants usually used for washing, bathing, and other types of housekeeping. In industrial settings, soaps are used as thickeners, components of some lubricants, and precursors to catalysts.",
+      "Image":"https://images.pexels.com/photos/545014/pexels-photo-545014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "Category":"Baby Care",
+      "Price":30,
+      "Rating":4.3,
+      "Stock":100
+   }
+]
