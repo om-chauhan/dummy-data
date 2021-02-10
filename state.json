@@ -1,0 +1,1108 @@
+[{
+		"id": 1,
+		"State": "Andhra Pradesh",
+		"Capital": "Hyderabad",
+		"Formation Date": "1 Nov. 1956",
+		"language": ["Telugu", "Urdu", "Hindi", "Tamil", "Marathi"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 2,
+		"State": "Arunachal",
+		"Capital": "Itanagar",
+		"Formation Date": "20 Feb. 1987",
+		"language": ["Nishi", "Adi", "Bengali", "Nepali", "Hindi"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 3,
+		"State": "Assam",
+		"Capital": "Dispur",
+		"Formation Date": "26 Jan. 1950",
+		"language": ["Assamese", "Bengali", "Hindi", "Bodo", "Nepali"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 4,
+		"State": "Bihar",
+		"Capital": "Patna",
+		"Formation Date": "26 Jan. 1950",
+		"language": [
+			"Hindi (Bhojpuri and Magahi)",
+			"Maithili",
+			"Urdu",
+			"Bengali",
+			"Santali"
+		],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 5,
+		"State": "Chhattisgarh",
+		"Capital": "Raipur",
+		"Formation Date": "1 Nov. 2000",
+		"language": [
+			"Hindi (Chhattisgarhi)",
+			"Odia",
+			"Bengali",
+			"Telugu",
+			"Marathi"
+		],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 6,
+		"State": "Goa",
+		"Capital": "Panaji",
+		"Formation Date": "30 May. 1987",
+		"language": ["Konkani", "Marathi", "Hindi", "Kannada", "Urdu"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 7,
+		"State": "Gujarat",
+		"Capital": "Gandhinagar",
+		"Formation Date": "1 May. 1960",
+		"language": ["Gujarati", "Hindi", "Sindhi", "Marathi", "Urdu"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 8,
+		"State": "Haryana",
+		"Capital": "Chandigarh",
+		"Formation Date": "1 Nov. 1966",
+		"language": [
+			"Hindi (Haryanvi and Mewati)",
+			"Punjabi",
+			"Urdu",
+			"Bengali",
+			"Maithili"
+		],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 9,
+		"State": "Himachal Pradesh",
+		"Capital": "Shimla",
+		"Formation Date": "25 Jan. 1971",
+		"language": ["Hindi", "Punjabi", "Nepali", "Kashmiri", "Dogri"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 10,
+		"State": "Jharkhand",
+		"Capital": "Ranchi",
+		"Formation Date": "15 Nov. 2000",
+		"language": [
+			"Hindi (Bhojpuri, Magahi, and Nagpuri)",
+			"Santhali",
+			"Bengali",
+			"Urdu",
+			"Odia"
+		],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 11,
+		"State": "Karnataka",
+		"Capital": "Bengaluru",
+		"Formation Date": "1 Nov. 1956",
+		"language": ["Kannada", "Urdu", "Telugu", "Tamil", "Marathi"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 12,
+		"State": "Kerala",
+		"Capital": "Thiruvananthapuram",
+		"Formation Date": "1 Nov. 1956",
+		"language": ["Malayalam", "Tamil", "Tulu", "Kannada", "Konkani"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 13,
+		"State": "Madhya Pradesh",
+		"Capital": "Bhopal",
+		"Formation Date": "1 Nov. 1956",
+		"language": ["Hindi", "Marathi", "Urdu", "Sindhi", "Gujarati"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 14,
+		"State": "Maharashtra",
+		"Capital": "Mumbai",
+		"Formation Date": "1 May. 1960",
+		"language": ["Marathi", "Hindi", "Urdu", "Gujarati", "Telugu"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 15,
+		"State": "Manipur",
+		"Capital": "Imphal",
+		"Formation Date": "21 Jan. 1972",
+		"language": ["Manipuri", "Nepali", "Hindi", "Bengali", "English"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 16,
+		"State": "Meghalaya",
+		"Capital": "Shillong",
+		"Formation Date": "21 Jan. 1972",
+		"language": ["Khasi", "Garo", "Bengali", "Nepali", "Hindi"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 17,
+		"State": "Mizoram",
+		"Capital": "Aizawl",
+		"Formation Date": "20 Feb. 1987",
+		"language": ["Mizo", "English", "Hindi", "Manipuri", "Chakma"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 18,
+		"State": "Nagaland",
+		"Capital": "Kohima",
+		"Formation Date": "1 Dec. 1963",
+		"language": ["Naga", "English", "Hindi", "Assamese", "Manipuri"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 19,
+		"State": "Odisha",
+		"Capital": "Bhubaneswar",
+		"Formation Date": "26 Jan. 1950",
+		"language": ["Odia", "Hindi", "Santali", "Urdu", "Telugu"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 20,
+		"State": "Punjab",
+		"Capital": "Chandigarh",
+		"Formation Date": "1 Nov. 1956",
+		"language": ["Punjabi", "Hindi", "Urdu", "Bengali", "English"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 21,
+		"State": "Rajasthan",
+		"Capital": "Jaipur",
+		"Formation Date": "1 Nov. 1956",
+		"language": [
+			"Hindi (Rajasthani)",
+			"Punjabi",
+			"Urdu",
+			"Sindhi",
+			"Gujarati"
+		],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 22,
+		"State": "Sikkim",
+		"Capital": "Gangtok",
+		"Formation Date": "16 May. 1975",
+		"language": ["Nepali", "Hindi", "Bengali", "Urdu", "Punjabi"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 23,
+		"State": "Tamil Nadu",
+		"Capital": "Chennai",
+		"Formation Date": "26 Jan. 1950",
+		"language": ["Tamil", "Telugu", "Kannada", "Urdu", "Malayalam"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 24,
+		"State": "Telangana",
+		"Capital": "Hyderabad",
+		"Formation Date": "2 Jun. 2014",
+		"language": ["Telugu", "Urdu", "Marathi", "Kannada", "Hindi"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 25,
+		"State": "Tripura",
+		"Capital": "Agartala",
+		"Formation Date": "21 Jan. 1972",
+		"language": ["Bengali", "Kokborok", "Assamese", "English", "Manipuri"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 26,
+		"State": "Uttar Pradesh",
+		"Capital": "Lucknow",
+		"Formation Date": "26 Jan. 1950",
+		"language": [
+			"Hindi (including Awadhi, Bhojpuri, Braj Bhasha and Khari Boli)",
+			"Urdu",
+			"Punjabi",
+			"Nepali",
+			"Bengali"
+		],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 27,
+		"State": "Uttarakhand",
+		"Capital": "Dehradun",
+		"Formation Date": "9 Nov. 2000",
+		"language": [
+			"Hindi (including Garhwali, Kumaoni, and Jaunsari)",
+			"Urdu",
+			"Punjabi",
+			"Bengali",
+			"Nepali"
+		],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	},
+	{
+		"id": 28,
+		"State": "West Bengal",
+		"Capital": "Kolkata",
+		"Formation Date": "1 Nov. 1956",
+		"language": ["Bengali", "Hindi", "Santali", "Urdu", "Nepali"],
+		"Government": {
+			"Governor": "John",
+			"Chief Minister": 30,
+			"Legislature": "New York",
+			"Parliamentary constituencies": [
+				"Rajya Sabha (11 seats)",
+				"Lok Sabha (25 seats)"
+			],
+			"High Court": "High Court of Andhra Pradesh"
+		},
+		"Area": {
+			"Total": "162,975 km2",
+			"Area Rank": "7th"
+		},
+		"Population": {
+			"Total": "49,386,799",
+			"Rank": "10th",
+			"Density": "308/km2"
+		},
+		"Demonym": ["Andhrulu", "Teluguvaru"],
+		"Website": "http://www.ap.gov.in/",
+		"Emblem": "Poorna Ghatam",
+		"Song": "Maa Telugu Thalliki",
+		"Dance": "Kuchipudi",
+		"Mammal": "Blackbuck",
+		"Bird": "Parrot",
+		"Fish": "Mudfish",
+		"Flower": "Jasmine",
+		"Fruit": "Mango",
+		"Tree": "Neem",
+		"Sport": "Kabaddi"
+	}
+
+]
