@@ -3,6 +3,7 @@
       "id":1,
       "State":"Andhra Pradesh",
       "Capital":"Hyderabad",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Nov. 1956",
       "language":[
          "Telugu",
@@ -50,6 +51,7 @@
       "id":2,
       "State":"Arunachal",
       "Capital":"Itanagar",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"20 Feb. 1987",
       "language":[
          "Nishi",
@@ -97,6 +99,7 @@
       "id":3,
       "State":"Assam",
       "Capital":"Dispur",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"26 Jan. 1950",
       "language":[
          "Assamese",
@@ -144,6 +147,7 @@
       "id":4,
       "State":"Bihar",
       "Capital":"Patna",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"26 Jan. 1950",
       "language":[
          "Hindi (Bhojpuri and Magahi)",
@@ -191,6 +195,7 @@
       "id":5,
       "State":"Chhattisgarh",
       "Capital":"Raipur",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Nov. 2000",
       "language":[
          "Hindi (Chhattisgarhi)",
@@ -238,6 +243,7 @@
       "id":6,
       "State":"Goa",
       "Capital":"Panaji",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"30 May. 1987",
       "language":[
          "Konkani",
@@ -285,6 +291,7 @@
       "id":7,
       "State":"Gujarat",
       "Capital":"Gandhinagar",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 May. 1960",
       "language":[
          "Gujarati",
@@ -332,6 +339,7 @@
       "id":8,
       "State":"Haryana",
       "Capital":"Chandigarh",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Nov. 1966",
       "language":[
          "Hindi (Haryanvi and Mewati)",
@@ -379,6 +387,7 @@
       "id":9,
       "State":"Himachal Pradesh",
       "Capital":"Shimla",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"25 Jan. 1971",
       "language":[
          "Hindi",
@@ -426,6 +435,7 @@
       "id":10,
       "State":"Jharkhand",
       "Capital":"Ranchi",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"15 Nov. 2000",
       "language":[
          "Hindi (Bhojpuri, Magahi, and Nagpuri)",
@@ -473,6 +483,7 @@
       "id":11,
       "State":"Karnataka",
       "Capital":"Bengaluru",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Nov. 1956",
       "language":[
          "Kannada",
@@ -520,6 +531,7 @@
       "id":12,
       "State":"Kerala",
       "Capital":"Thiruvananthapuram",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Nov. 1956",
       "language":[
          "Malayalam",
@@ -567,6 +579,7 @@
       "id":13,
       "State":"Madhya Pradesh",
       "Capital":"Bhopal",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Nov. 1956",
       "language":[
          "Hindi",
@@ -614,6 +627,7 @@
       "id":14,
       "State":"Maharashtra",
       "Capital":"Mumbai",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 May. 1960",
       "language":[
          "Marathi",
@@ -661,6 +675,7 @@
       "id":15,
       "State":"Manipur",
       "Capital":"Imphal",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"21 Jan. 1972",
       "language":[
          "Manipuri",
@@ -708,6 +723,7 @@
       "id":16,
       "State":"Meghalaya",
       "Capital":"Shillong",
+       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"21 Jan. 1972",
       "language":[
          "Khasi",
@@ -755,6 +771,7 @@
       "id":17,
       "State":"Mizoram",
       "Capital":"Aizawl",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"20 Feb. 1987",
       "language":[
          "Mizo",
@@ -802,6 +819,7 @@
       "id":18,
       "State":"Nagaland",
       "Capital":"Kohima",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Dec. 1963",
       "language":[
          "Naga",
@@ -849,6 +867,7 @@
       "id":19,
       "State":"Odisha",
       "Capital":"Bhubaneswar",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"26 Jan. 1950",
       "language":[
          "Odia",
@@ -896,6 +915,7 @@
       "id":20,
       "State":"Punjab",
       "Capital":"Chandigarh",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Nov. 1956",
       "language":[
          "Punjabi",
@@ -943,6 +963,7 @@
       "id":21,
       "State":"Rajasthan",
       "Capital":"Jaipur",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Nov. 1956",
       "language":[
          "Hindi (Rajasthani)",
@@ -990,6 +1011,7 @@
       "id":22,
       "State":"Sikkim",
       "Capital":"Gangtok",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"16 May. 1975",
       "language":[
          "Nepali",
@@ -1037,6 +1059,7 @@
       "id":23,
       "State":"Tamil Nadu",
       "Capital":"Chennai",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"26 Jan. 1950",
       "language":[
          "Tamil",
@@ -1084,6 +1107,7 @@
       "id":24,
       "State":"Telangana",
       "Capital":"Hyderabad",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"2 Jun. 2014",
       "language":[
          "Telugu",
@@ -1131,6 +1155,7 @@
       "id":25,
       "State":"Tripura",
       "Capital":"Agartala",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"21 Jan. 1972",
       "language":[
          "Bengali",
@@ -1178,6 +1203,7 @@
       "id":26,
       "State":"Uttar Pradesh",
       "Capital":"Lucknow",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"26 Jan. 1950",
       "language":[
          "Hindi (including Awadhi, Bhojpuri, Braj Bhasha and Khari Boli)",
@@ -1225,6 +1251,7 @@
       "id":27,
       "State":"Uttarakhand",
       "Capital":"Dehradun",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"9 Nov. 2000",
       "language":[
          "Hindi (including Garhwali, Kumaoni, and Jaunsari)",
@@ -1272,6 +1299,7 @@
       "id":28,
       "State":"West Bengal",
       "Capital":"Kolkata",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Nov. 1956",
       "language":[
          "Bengali",
