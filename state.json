@@ -20,7 +20,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -51,7 +51,7 @@
       "id":2,
       "State":"Arunachal",
       "Capital":"Itanagar",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"20 Feb. 1987",
       "language":[
          "Nishi",
@@ -68,7 +68,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -99,7 +99,7 @@
       "id":3,
       "State":"Assam",
       "Capital":"Dispur",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"26 Jan. 1950",
       "language":[
          "Assamese",
@@ -116,7 +116,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -147,7 +147,7 @@
       "id":4,
       "State":"Bihar",
       "Capital":"Patna",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"26 Jan. 1950",
       "language":[
          "Hindi (Bhojpuri and Magahi)",
@@ -164,7 +164,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -195,7 +195,7 @@
       "id":5,
       "State":"Chhattisgarh",
       "Capital":"Raipur",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Nov. 2000",
       "language":[
          "Hindi (Chhattisgarhi)",
@@ -212,7 +212,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -243,7 +243,7 @@
       "id":6,
       "State":"Goa",
       "Capital":"Panaji",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"30 May. 1987",
       "language":[
          "Konkani",
@@ -260,7 +260,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -291,7 +291,7 @@
       "id":7,
       "State":"Gujarat",
       "Capital":"Gandhinagar",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 May. 1960",
       "language":[
          "Gujarati",
@@ -308,7 +308,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -339,7 +339,7 @@
       "id":8,
       "State":"Haryana",
       "Capital":"Chandigarh",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Nov. 1966",
       "language":[
          "Hindi (Haryanvi and Mewati)",
@@ -356,7 +356,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -387,7 +387,7 @@
       "id":9,
       "State":"Himachal Pradesh",
       "Capital":"Shimla",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"25 Jan. 1971",
       "language":[
          "Hindi",
@@ -404,7 +404,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -435,7 +435,7 @@
       "id":10,
       "State":"Jharkhand",
       "Capital":"Ranchi",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"15 Nov. 2000",
       "language":[
          "Hindi (Bhojpuri, Magahi, and Nagpuri)",
@@ -452,7 +452,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -483,7 +483,7 @@
       "id":11,
       "State":"Karnataka",
       "Capital":"Bengaluru",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Nov. 1956",
       "language":[
          "Kannada",
@@ -500,7 +500,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -531,7 +531,7 @@
       "id":12,
       "State":"Kerala",
       "Capital":"Thiruvananthapuram",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Nov. 1956",
       "language":[
          "Malayalam",
@@ -548,7 +548,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -579,7 +579,7 @@
       "id":13,
       "State":"Madhya Pradesh",
       "Capital":"Bhopal",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 Nov. 1956",
       "language":[
          "Hindi",
@@ -596,7 +596,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -627,7 +627,7 @@
       "id":14,
       "State":"Maharashtra",
       "Capital":"Mumbai",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"1 May. 1960",
       "language":[
          "Marathi",
@@ -644,7 +644,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -675,7 +675,7 @@
       "id":15,
       "State":"Manipur",
       "Capital":"Imphal",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"21 Jan. 1972",
       "language":[
          "Manipuri",
@@ -692,7 +692,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -723,7 +723,7 @@
       "id":16,
       "State":"Meghalaya",
       "Capital":"Shillong",
-       "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
       "Formation Date":"21 Jan. 1972",
       "language":[
          "Khasi",
@@ -740,7 +740,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -788,7 +788,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -836,7 +836,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -884,7 +884,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -932,7 +932,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -980,7 +980,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -1028,7 +1028,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -1076,7 +1076,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -1124,7 +1124,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -1172,7 +1172,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -1220,7 +1220,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -1268,7 +1268,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
@@ -1316,7 +1316,7 @@
             "Rajya Sabha (11 seats)",
             "Lok Sabha (25 seats)"
          ],
-         "High Court":"High Court of Andhra Pradesh"
+         "HighCourt":"High Court of Andhra Pradesh"
       },
       "Area":{
          "Total":"162,975 km2",
