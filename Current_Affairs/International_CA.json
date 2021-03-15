@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "CA_Img": "Images",
+        "CA_Name": "Jal Shakti Ministry launches framework for water monitoring and quality testing",
+        "CA_Details": "The guidelines by the Jal Shakti Ministry specify work to be done in terms of monitoring, surveillance, and testing of the water quality at the state, block/tehsil, state, and village levels.",
+        "updateted_at": "15 Mar - 21"
+    },
+    {
+        "id": 2,
+        "CA_Img": "Images",
+        "CA_Name": "Government launches 'Mera Ration' mobile app ",
+        "CA_Details": "The beneficiaries will be able to use the 'Mera Ration' app to identify the nearest fair price shop and check details of their entitlement and recent transactions.",
+        "updateted_at": "15 Mar - 21"
+    }
+]
